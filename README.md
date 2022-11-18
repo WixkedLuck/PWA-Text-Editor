@@ -6,7 +6,7 @@
 * [Installation](#installation)
 * [Usage](#usage)
  * [Contributors](#contributors)
- * [Video](#Video)
+ * [Site](#site)
 
 # Description
 - text editor that runs in the browser/ offline. The app will be a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. 
@@ -35,5 +35,5 @@ The purpose of this project is to show off a PWA text editor for education purpo
 - WixkedLuck
 
 
-# Video link
-https://youtu.be/5R4tOEAmuNc
+# Site
+
