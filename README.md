@@ -36,4 +36,4 @@ The purpose of this project is to show off a PWA text editor for education purpo
 
 
 # Site
-
+https://ja-te1.herokuapp.com/
